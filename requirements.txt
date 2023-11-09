@@ -1,0 +1,7 @@
+cryptography
+colorama
+pillow
+random
+string
+
+
