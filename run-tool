@@ -6,12 +6,13 @@ then
     clear
 
 else
-    echo "python3 not found..Installing...."
+    echo "python3 or pip not found..Installing...."
     sudo apt install python3 -y && sudo apt install pip -y
     echo "clearing terminal"
     sleep 2
     clear
 fi
+
 
 echo -e  '\n'
 echo "***********************CYBERSECURITY TOOLS*******************************"
