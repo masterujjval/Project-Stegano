@@ -307,11 +307,11 @@ def main():
 
 if __name__ == "__main__":
     os.system('cls' if os.name == 'nt' else 'clear')
-    cprint(figlet_format('IMGHIDE!', font='starwars'), 'yellow', attrs=['bold'])
+    cprint(figlet_format('Image Encryption', font='starwars'), 'yellow', attrs=['bold'])
     print_credits()
     print()
     print(
-        "[bold]IMGHIDE[/bold] allows you to hide texts inside an image. You can also protect these texts with a password using AES-256.")
+        "[bold]Image Encryption[/bold] allows you to hide texts inside an image. Symmetric key (using AES) will be generated and only key to decrypt the hidden messege.")
     print()
 
     main()
