@@ -311,7 +311,7 @@ if __name__ == "__main__":
     print_credits()
     print()
     print(
-        "[bold]Image Encryption[/bold] allows you to hide texts inside an image. Symmetric key (using AES) will be generated and only key to decrypt the hidden messege.")
+        "[bold]Image Encryption[/bold] allows you to hide texts inside an image. Symmetric key that is password must be same to decrypt the text from the image. The text would be encrypted in the image using AES encryption technique.")
     print()
 
     main()
