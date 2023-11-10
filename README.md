@@ -6,7 +6,7 @@
 
 The project is based on the steganography techniques to encrypt the message and an individual with the symmetric key will be able to decrypt the message.
 
-<Project-Stegano</strong> have two options:
+<strong>Project-Stegano</strong> have two options:
 - Hide text in the image
 - Hide messages using AES encryption
 
