@@ -2,7 +2,7 @@
 
 ## About
 
-<strong> Project-Stagno</strong> is the CLI tool made under the guidance of IBM-Skillbuild and Edunet mentors. <strong> Project-Stagno</strong> is the final project for completing the internship of Edunet with IBM-Skillbuild.
+<strong> Project-Stegano</strong> is the CLI tool made under the guidance of IBM-Skillbuild and Edunet mentors. <strong> Project-Stegano</strong> is the final project for completing the internship of Edunet with IBM-Skillbuild.
 
 The project is based on the steganography techniques to encrypt the message and an individual with the symmetric key will be able to decrypt the message.
 
@@ -30,7 +30,7 @@ For Windows, there are two ways to run the script in CLI:
 - Using git bash/WSL(ubuntu from Microsoft)
   - follow the same Linux commands mentioned above
 
-## Sample and test case
+## Sample and testecase
 
 ### Text Encryption
 
