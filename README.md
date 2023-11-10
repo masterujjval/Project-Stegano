@@ -56,8 +56,9 @@ Type the image name or path to the image (.jpg or jpeg) and then enter the passw
 
 ![Screenshot from 2023-11-11 01-09-07](https://github.com/masterujjval/Project-Stegano/assets/64778409/174efcb2-0d71-4e6f-9628-6be8b9027193)
 
+Decoding the text from the image is the same just choose the decode option and viola!!
 
-
+![Screenshot from 2023-11-11 01-15-46](https://github.com/masterujjval/Project-Stegano/assets/64778409/82c5236d-4217-47b9-b071-a88f562167f1)
 
 
 
