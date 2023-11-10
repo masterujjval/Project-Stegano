@@ -30,6 +30,27 @@ For Windows, there are two ways to run the script in CLI:
 - Using git bash/WSL(ubuntu from Microsoft)
   - follow the same Linux commands mentioned above
 
+## Sample and test case
+
+### Text Encryption
+
+- Enter an option to encrypt or decrypt the plain/cipher text.
+
+  - ![Screenshot from 2023-11-11 00-54-10](https://github.com/masterujjval/Project-Stegano/assets/64778409/40b11d0e-657f-4ccd-9fc8-dae6e47b1c07)
+
+- Copy the text and key displayed after a single quote (' ')
+
+  - ![Screenshot from 2023-11-11 00-56-50](https://github.com/masterujjval/Project-Stegano/assets/64778409/2ab6da37-cdce-4cbb-b20f-85096329dddc)
+
+
+- To decrypt the cipher text choose option 2
+  - ![Screenshot from 2023-11-11 01-01-54](https://github.com/masterujjval/Project-Stegano/assets/64778409/0079c774-984f-4a3b-ad75-d97e9d76d73f)
+
+
+
+
+
+
 
 
 
