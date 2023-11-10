@@ -2,6 +2,7 @@
 
 if which python3
 then
+    
     clear
 
 else
@@ -25,7 +26,7 @@ case $ans in
         python3 main.py
         ;;
     "2")
-        bash run
+        bash binder
         ;;
     *)
         echo "Invalid Input"
