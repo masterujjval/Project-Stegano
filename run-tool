@@ -7,7 +7,7 @@ then
 
 else
     echo "python3 or pip not found..Installing...."
-    sudo apt install python3 -y && sudo apt install pip -y
+    sudo apt install python3 -y && sudo apt install pip -y && pip3 install -r requirements.txt
     echo "clearing terminal"
     sleep 2
     clear
