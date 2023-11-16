@@ -2,8 +2,19 @@ import random
 import string
 import cryptography
 from colorama import Fore,Style
-
 from cryptography.fernet import Fernet
+import os.path
+from os import path
+import sys
+import os
+from pyfiglet import figlet_format
+from colorama import init
+from termcolor import cprint
+
+
+os.system('cls' if os.name == 'nt' else 'clear')
+cprint(figlet_format('End to End Encryption Tool', font='starwars'), 'yellow', attrs=['bold'])
+
 
 plain_text=input(Fore.GREEN + "Enter text to encrypt: "+ Fore.YELLOW)
 plain_text=plain_text.encode()
