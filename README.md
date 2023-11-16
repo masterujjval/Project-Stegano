@@ -30,7 +30,7 @@ For Windows, there are two ways to run the script in CLI:
 - Using git bash/WSL(ubuntu from Microsoft)
   - follow the same Linux commands mentioned above
 
-## Sample and testecase
+## Sample and test case
 
 ### Text Encryption
 
@@ -48,7 +48,7 @@ For Windows, there are two ways to run the script in CLI:
 
 ## Text Hiding in an Image
 
-***It is recommended to store the image in the same folder of the cloned repository. Paste the full path of the image with image extension.***
+***It is recommended to store the image in the same folder of the cloned repository. Paste the full path of the image with the image extension.***
 
 ![Screenshot from 2023-11-11 01-07-14](https://github.com/masterujjval/Project-Stegano/assets/64778409/411a6c31-7325-4c15-a721-80d58654fd6d)
 
