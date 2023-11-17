@@ -13,9 +13,19 @@ else
     clear
 fi
 
+if which figlet
+then
+    clear
+   
+else
+    echo "installing packages..."
+    sleep 2
+    sudo apt install figlet && sudo apt install toilet-y
+    sleep 1
+fi
 
+figlet -t -k CyberSecurity Tools
 echo -e  '\n'
-echo "***********************CYBERSECURITY TOOLS*******************************"
 echo "Which tool to use?"
 echo "1) Image Encryption"
 echo "2) Text Encryption"
