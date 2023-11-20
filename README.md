@@ -22,11 +22,12 @@ The project is based on the steganography techniques to encrypt the message and 
 
 ### Windows
 ***NOTE:*** execute the command ```pip3 install -r requirements.txt``` to install the dependencies.
-For Windows, there are two ways to run the script in CLI:
+For Windows, there are three ways to run the script in CLI:
 - Using python3
   - Execute ```python3 main.py``` for <strong>Text in Image Encryption</strong>
   - Execute ```python3 encrypt-msg.py``` for <strong>Text encryption</strong>
-
+- Using pycharm or other python IDE
+   - Execute the files in the terminal
 - Using git bash/WSL(ubuntu from Microsoft)
   - follow the same Linux commands mentioned above
 
